@@ -96,10 +96,10 @@
                         <configuration>
                             <rules>
                                 <rule>
-                                    <element>PACKAGE</element>
+                                    
                                     <excludes>
-                                        <exclude>com.squidio.javassement.response</exclude>
-                                        <exclude>com.squidio.javassement</exclude>
+                                        <exclude>**/*com/squidio/javaassement/JavassementApplication.class</exclude>
+                                        <exclude>**/*com/squidio/javaassement/response.Users.class</exclude>
                                     </excludes>
                                     <limits>
                                         <limit>
