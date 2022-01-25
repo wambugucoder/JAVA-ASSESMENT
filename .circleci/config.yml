@@ -29,7 +29,7 @@ workflows:
   main:
     jobs:
       - build:
-          context: JavaAssesmentSonarCloud
+          context: PollingAppSonarCloud
       - deploy:
           requires:
             - build
