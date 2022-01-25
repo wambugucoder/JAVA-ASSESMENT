@@ -16,7 +16,7 @@
     <properties>
         <java.version>1.8</java.version>
         <credentials.for.analysis>67a04fda2980c98b1f2a7db9f44130069ba7d210</credentials.for.analysis>
-        <sonar.projectKey>wambugucoder_FINAL-YEAR-PROJECT</sonar.projectKey>
+        <sonar.projectKey>wambugucoder_JAVA-ASSESMENT</sonar.projectKey>
         <sonar.organization>wambugucoder</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.login>${credentials.for.analysis}</sonar.login>
