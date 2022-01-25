@@ -97,6 +97,10 @@
                             <rules>
                                 <rule>
                                     <element>PACKAGE</element>
+                                    <excludes>
+                                        <exclude>com.squidio.javassement.response</exclude>
+                                        <exclude>com.squidio.javassement</exclude>
+                                    </excludes>
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
